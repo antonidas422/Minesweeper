@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minesweaper</string>
+    <string name="lose_toast">You lose</string>
+    <string name="win_toast">You win</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_label1">Play</string>
+    <string name="tab_label2">Load</string>
+    <string name="tab_label3">Stats</string>
+    <string name="tab_label4">Settings</string>
+</resources>
